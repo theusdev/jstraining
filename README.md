@@ -1,2 +1,2 @@
 # jstraining
-repository trainning js for my jobs
+## :memo: Treinos objetivos em JS.
